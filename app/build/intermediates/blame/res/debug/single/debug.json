@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo_letv.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-mdpi\\logo_letv.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blackscreen.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-hdpi\\blackscreen.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\layout_videoview.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\layout\\videoview.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_down_btn_0.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-mdpi\\down_btn_0.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mediacontroller_pause_button.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable\\mediacontroller_pause_button.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_video_num_front.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-hdpi\\video_num_front.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_down_btn_4.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-mdpi\\down_btn_4.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sd_bar_bg.9.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-hdpi\\sd_bar_bg.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_pager.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\layout\\fragment_pager.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\layout_mediacontroller.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\layout\\mediacontroller.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\layout_common_loading.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\layout\\common_loading.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mediacontroller_play_button.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable\\mediacontroller_play_button.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mediacontroller_pause01.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-hdpi\\mediacontroller_pause01.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_down_btn_3.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-mdpi\\down_btn_3.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_file_item.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\layout\\fragment_file_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mediacontroller_seekbar02.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-hdpi\\mediacontroller_seekbar02.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_btn_bg.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable\\home_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_down_btn_1.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-mdpi\\down_btn_1.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_default_thumbnail.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-hdpi\\default_thumbnail.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo_sina.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-mdpi\\logo_sina.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mediacontroller_play02.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-hdpi\\mediacontroller_play02.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_video_online.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-hdpi\\video_online.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo_iqiyi.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-mdpi\\logo_iqiyi.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_in_bubble.9.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-hdpi\\in_bubble.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mediacontroller_seekbar.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable\\mediacontroller_seekbar.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_media_controller.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\layout\\my_media_controller.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_file.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\layout\\fragment_file.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_line.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-hdpi\\ic_line.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_contact_list_scroll_pressed.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-hdpi\\contact_list_scroll_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow_right.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-hdpi\\arrow_right.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_video_brightness_bg.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-hdpi\\video_brightness_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mediacontroller_seekbar_thumb.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable\\mediacontroller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_down_btn_7.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-mdpi\\down_btn_7.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mediacontroller_seekbar01.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-hdpi\\mediacontroller_seekbar01.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\raw_pub.key.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\raw\\pub.key"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_down_btn_9.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-mdpi\\down_btn_9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_contact_list_scroll_normal.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-hdpi\\contact_list_scroll_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo_youku.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-mdpi\\logo_youku.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mediacontroller_bg.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-hdpi\\mediacontroller_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mediacontroller_play01.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-hdpi\\mediacontroller_play01.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_down_btn_6.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-mdpi\\down_btn_6.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_video_back.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-hdpi\\video_back.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable_alphabet_scroller_bg.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable\\alphabet_scroller_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_video_file.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-hdpi\\video_file.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo_56.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-mdpi\\logo_56.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo_tudou.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-mdpi\\logo_tudou.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\raw_libarm.so.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\raw\\libarm.so"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo_cntv.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-mdpi\\logo_cntv.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_down_btn_8.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-mdpi\\down_btn_8.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_online.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\layout\\fragment_online.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fast_scroller_overlay.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-hdpi\\fast_scroller_overlay.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_down_btn_10.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-mdpi\\down_btn_10.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_bg_checked.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-hdpi\\home_bg_checked.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mediacontroller_pause02.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-hdpi\\mediacontroller_pause02.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo_pptv.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-mdpi\\logo_pptv.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_bg_normal.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-hdpi\\home_bg_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_down_btn_5.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-mdpi\\down_btn_5.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\layout_mediaplayer.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\layout\\mediaplayer.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_video_num_bg.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-hdpi\\video_num_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_video_volumn_bg.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-hdpi\\video_volumn_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_online_item.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\layout\\fragment_online_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo_qq.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-mdpi\\logo_qq.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo_sohu.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-mdpi\\logo_sohu.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_down_btn_2.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\src\\main\\res\\drawable-mdpi\\down_btn_2.png"
+    }
+]

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Apr 14 19:15:21 JST 2018
+0.baseType=DIRECTORY
+0.base=D\:\\Android\\AndroidStudioProjects\\OPlayer_new\\app\\build\\intermediates\\assets\\debug
+0.path=online.xml
+0.set=ASSET
+count=1
